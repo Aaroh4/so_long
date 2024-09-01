@@ -1,0 +1,1 @@
+so_long is a small 2D game project designed to help you develop skills in working with textures, sprites, and basic gameplay elements using C. The primary goal is to create a simple yet engaging 2D game where a player character collects items and exits a map, using the MLX42 graphical library.
